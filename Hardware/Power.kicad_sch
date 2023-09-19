@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6055cb91-e4ab-4c5d-9611-21df837ef2ad)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "VBUS" (shape input) (at 17.78 21.59 90) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 1fbc8558-9950-486e-bafa-665cc876208f)
+  )
+)
